@@ -1,0 +1,12 @@
+Logistic Regression:
+  mean_score: 0.8058251208335949
+  std_score: 0.014610443415244676
+
+Random Forest Classifier:
+  mean_score: 0.8125980792166217
+  std_score: 0.024265888852982302
+
+Decision Tree Classifier:
+  mean_score: 0.7857824367585211
+  std_score: 0.07090274149400891
+

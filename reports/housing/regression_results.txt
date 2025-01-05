@@ -1,0 +1,12 @@
+Linear Regression:
+  mean_score: 5449821144.21343
+  std_score: 542162837.9523609
+
+Random Forest Regressor:
+  mean_score: 6040522361.014947
+  std_score: 2042486898.4558327
+
+Decision Tree Regressor:
+  mean_score: 9809716759.161095
+  std_score: 1972581344.5697846
+
